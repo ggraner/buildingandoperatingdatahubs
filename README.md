@@ -1,7 +1,7 @@
 # Building and Operating Data Hubs
 Using a practical Framework as Toolset
 
-These Files represent the framework presented the book **Building and Operating Data Hubs** available on Leanpub:
+These Files contain the framework presented the book **Building and Operating Data Hubs** available on Leanpub:
 
 https://leanpub.com/buildingandoperatingdatahubs
 
