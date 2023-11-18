@@ -1,5 +1,5 @@
 # Building and Operating Data Hubs
-Using a practical Framework as Toolset
+Navigating the Data Cosmos: A Framework for Informed Decision-Making in the Digital Landscape
 
 ## Supporting Files
 The Supporting Files contain the framework presented the book **Building and Operating Data Hubs** available on Leanpub: https://leanpub.com/buildingandoperatingdatahubs
@@ -16,4 +16,4 @@ For more Information see also: [diagrams.net Integrations](https://www.diagrams.
 
 <img alt="Building and Operating Data Hubs" src="https://user-images.githubusercontent.com/16346658/200371769-28e554b4-8165-4f09-822a-7de18d6048c4.jpg" width="300" height="450">
 
-Building an Operating Data Hubs introduces a practical framework as Toolset. The book should help to get a clear picture of your Data Environment and the interlink between your Data Products, your Databases, Data Warehouses and all your structured and unstructured Data.
+Dive into the heart of innovation with the Data Hub Framework—a strategic blueprint transforming raw data into valuable insights. Uncover the layers shaping operational brilliance, customer satisfaction, and unparalleled data-driven value. Welcome to the future of data strategy.
