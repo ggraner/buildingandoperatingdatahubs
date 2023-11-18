@@ -3,6 +3,7 @@ Navigating the Data Cosmos: A Framework for Informed Decision-Making in the Digi
 
 ## Supporting Files
 The Supporting Files contain the framework presented the book **Building and Operating Data Hubs** 
+
 available on Leanpub: https://leanpub.com/buildingandoperatingdatahubs
 
 The files can be opened and edited with https://www.diagrams.net/
